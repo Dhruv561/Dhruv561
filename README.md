@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Dhruv561
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning a lot of math
-- 💞️ I’m looking to collaborate on a few projects
-- 📫 How to reach me @itsdhruv561 on instagram
+- 🌱 I’m currently learning a lot of coding and math
 
 <!---
 Dhruv561/Dhruv561 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
